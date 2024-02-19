@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+- Preview: https://main--Drew-Homepage--Drew-Cummings.hlx.page/
+- Live: https://main--{Drew-Homepage--Drew-Cummings.hlx.live/
 
 ## Installation
 
